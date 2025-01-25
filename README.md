@@ -1,6 +1,6 @@
 # zeotap
 
-The task_number is using normal script 
+The task_number is using normal script .
 The same scipy is in the ipynb file 
 
 
